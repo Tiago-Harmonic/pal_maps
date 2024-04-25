@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2024-04-25)
+------------------
 * license and contributing
 * Contributors: antoniobrandi
 
