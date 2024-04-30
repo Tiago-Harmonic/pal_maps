@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2024-04-30)
+------------------
 * Merge branch 'man/hospital-maps' into 'humble-devel'
   added hospital two floors maps
   See merge request navigation/pal_maps!1
