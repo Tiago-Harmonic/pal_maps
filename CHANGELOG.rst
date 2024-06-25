@@ -2,8 +2,8 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2024-06-25)
+------------------
 * Merge branch 'abr/fix/map-name' into 'humble-devel'
   renamed pal office map
   See merge request navigation/pal_maps!3
