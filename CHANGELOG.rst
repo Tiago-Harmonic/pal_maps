@@ -2,6 +2,14 @@
 Changelog for package pal_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'man/feat/w' into 'humble-devel'
+  added willow garage
+  See merge request navigation/pal_maps!5
+* added willow garage
+* Contributors: andreacapodacqua, martinaannicelli
+
 0.0.4 (2024-06-25)
 ------------------
 * Merge branch 'abr/fix/map-name' into 'humble-devel'
